@@ -1,0 +1,14 @@
+C:\Users\kiyos\Documents\Zalo Received Files\BTOOP\BTOOP\bin\Debug\net6.0\BTOOP.exe
+C:\Users\kiyos\Documents\Zalo Received Files\BTOOP\BTOOP\bin\Debug\net6.0\BTOOP.deps.json
+C:\Users\kiyos\Documents\Zalo Received Files\BTOOP\BTOOP\bin\Debug\net6.0\BTOOP.runtimeconfig.json
+C:\Users\kiyos\Documents\Zalo Received Files\BTOOP\BTOOP\bin\Debug\net6.0\BTOOP.dll
+C:\Users\kiyos\Documents\Zalo Received Files\BTOOP\BTOOP\bin\Debug\net6.0\BTOOP.pdb
+C:\Users\kiyos\Documents\Zalo Received Files\BTOOP\BTOOP\obj\Debug\net6.0\BTOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiyos\Documents\Zalo Received Files\BTOOP\BTOOP\obj\Debug\net6.0\BTOOP.AssemblyInfoInputs.cache
+C:\Users\kiyos\Documents\Zalo Received Files\BTOOP\BTOOP\obj\Debug\net6.0\BTOOP.AssemblyInfo.cs
+C:\Users\kiyos\Documents\Zalo Received Files\BTOOP\BTOOP\obj\Debug\net6.0\BTOOP.csproj.CoreCompileInputs.cache
+C:\Users\kiyos\Documents\Zalo Received Files\BTOOP\BTOOP\obj\Debug\net6.0\BTOOP.dll
+C:\Users\kiyos\Documents\Zalo Received Files\BTOOP\BTOOP\obj\Debug\net6.0\refint\BTOOP.dll
+C:\Users\kiyos\Documents\Zalo Received Files\BTOOP\BTOOP\obj\Debug\net6.0\BTOOP.pdb
+C:\Users\kiyos\Documents\Zalo Received Files\BTOOP\BTOOP\obj\Debug\net6.0\BTOOP.genruntimeconfig.cache
+C:\Users\kiyos\Documents\Zalo Received Files\BTOOP\BTOOP\obj\Debug\net6.0\ref\BTOOP.dll
